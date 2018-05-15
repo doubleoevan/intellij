@@ -18,8 +18,8 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
