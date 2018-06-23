@@ -2,6 +2,9 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
