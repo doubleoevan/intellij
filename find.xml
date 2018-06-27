@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -24,12 +24,12 @@
     <mask>*GoldFileTest.java</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.coffee</mask>
     <mask>test*.js</mask>
     <mask>*Widget.js</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.styl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
