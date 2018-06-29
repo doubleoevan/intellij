@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -20,12 +20,12 @@
     <mask>*GoldFileTest.java</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
-    <mask>*.coffee</mask>
     <mask>test*.js</mask>
     <mask>*Widget.js</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.styl</mask>
+    <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
