@@ -23,9 +23,9 @@
     <mask>test*.js</mask>
     <mask>*Widget.js</mask>
     <mask>*.html</mask>
-    <mask>*.styl</mask>
     <mask>*.xml</mask>
     <mask>*.coffee</mask>
+    <mask>*.styl</mask>
     <mask>*.js</mask>
   </component>
 </application>
