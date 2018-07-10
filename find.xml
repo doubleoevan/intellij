@@ -20,9 +20,9 @@
     <mask>*.xml</mask>
     <mask>test_*.js</mask>
     <mask>*Widget.js</mask>
-    <mask>*.js</mask>
     <mask>*.styl</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
     <mask>*.coffee</mask>
   </component>
 </application>
