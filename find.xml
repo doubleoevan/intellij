@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -26,9 +26,9 @@
     <mask>*.xml</mask>
     <mask>Navi*.coffee</mask>
     <mask>test*.js</mask>
-    <mask>*.coffee</mask>
     <mask>*RC.coffee</mask>
     <mask>*.js</mask>
     <mask>*.styl</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
