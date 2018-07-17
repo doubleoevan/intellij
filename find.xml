@@ -31,5 +31,6 @@
     <mask>*.js</mask>
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
+    <mask>test*</mask>
   </component>
 </application>
