@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -33,5 +34,6 @@
     <mask>*.styl</mask>
     <mask>test*</mask>
     <mask>*Widget*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
