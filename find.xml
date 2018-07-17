@@ -32,5 +32,6 @@
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
     <mask>test*</mask>
+    <mask>*Widget*</mask>
   </component>
 </application>
