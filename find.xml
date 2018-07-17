@@ -33,7 +33,7 @@
     <mask>*.styl</mask>
     <mask>test*</mask>
     <mask>*Widget*</mask>
-    <mask>*test*</mask>
     <mask>*Widget.coff*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
