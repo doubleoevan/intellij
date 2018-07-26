@@ -26,7 +26,6 @@
     <mask>Navi*.coffee</mask>
     <mask>test*.js</mask>
     <mask>*RC.coffee</mask>
-    <mask>*.js</mask>
     <mask>test*</mask>
     <mask>*Widget*</mask>
     <mask>*Widget.coff*</mask>
@@ -34,5 +33,6 @@
     <mask>*Widget.coffee</mask>
     <mask>*.styl</mask>
     <mask>*.coffee</mask>
+    <mask>*.js</mask>
   </component>
 </application>
