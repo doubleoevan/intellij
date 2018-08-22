@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -27,9 +28,9 @@
     <mask>*Widget.coff*</mask>
     <mask>*test*</mask>
     <mask>*Widget.coffee</mask>
-    <mask>*.coffee</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
