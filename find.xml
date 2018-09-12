@@ -38,9 +38,9 @@
     <mask>*.json</mask>
     <mask>*.coffee</mask>
     <mask>*.js</mask>
-    <mask>*.cmp</mask>
     <mask>*.xml</mask>
     <mask>*.apex</mask>
+    <mask>*.cmp</mask>
     <mask>*.apexp</mask>
   </component>
 </application>
