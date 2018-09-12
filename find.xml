@@ -39,6 +39,7 @@
     <mask>*.json</mask>
     <mask>*.coffee</mask>
     <mask>*.js</mask>
+    <mask>*.cmp</mask>
     <mask>*.xml</mask>
   </component>
 </application>
