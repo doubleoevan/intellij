@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -36,7 +35,7 @@
     <mask>*.apex</mask>
     <mask>*.cmp</mask>
     <mask>*.apexp</mask>
-    <mask>*.coffee</mask>
     <mask>*.js</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
