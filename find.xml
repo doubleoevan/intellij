@@ -4,12 +4,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>pom.xml</mask>
@@ -21,7 +19,6 @@
     <mask>*.html</mask>
     <mask>test_*.js</mask>
     <mask>*Widget.js</mask>
-    <mask>*.java</mask>
     <mask>Navi*.coffee</mask>
     <mask>test*.js</mask>
     <mask>*RC.coffee</mask>
@@ -40,5 +37,6 @@
     <mask>test_*</mask>
     <mask>*.js</mask>
     <mask>*.coffee</mask>
+    <mask>*.java</mask>
   </component>
 </application>
