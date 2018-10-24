@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.mxml</mask>
     <mask>pom.xml</mask>
     <mask>pom.*</mask>
@@ -34,8 +34,9 @@
     <mask>*.coffee</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.apexp</mask>
     <mask>*.cmp</mask>
-    <mask>*.xml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
