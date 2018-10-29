@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>pom.*</mask>
     <mask>*.txt</mask>
     <mask>*Representation.java</mask>
@@ -26,12 +27,12 @@
     <mask>*.coffee</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
-    <mask>*.css</mask>
     <mask>*.cmp</mask>
     <mask>!*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.cmp,*.apexp</mask>
     <mask>*.js</mask>
     <mask>*.apexp</mask>
+    <mask>*.css</mask>
   </component>
 </application>
