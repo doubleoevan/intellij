@@ -37,7 +37,7 @@
     <mask>*.js</mask>
     <mask>*.apexp</mask>
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
