@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller.java" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*Representation.java</mask>
     <mask>*GoldFileTest.java</mask>
     <mask>*Test.java</mask>
@@ -39,8 +39,8 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.cmp</mask>
-    <mask>*.js</mask>
     <mask>*Controller.js</mask>
     <mask>*Controller.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
