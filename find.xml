@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cmp" />
     <mask>*Representation.java</mask>
     <mask>*GoldFileTest.java</mask>
     <mask>*Test.java</mask>
@@ -36,8 +37,8 @@
     <mask>*Controller.java</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*Controller.js</mask>
     <mask>*.xml</mask>
     <mask>*.cmp</mask>
-    <mask>*Controller.js</mask>
   </component>
 </application>
