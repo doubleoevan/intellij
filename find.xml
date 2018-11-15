@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cmp" />
+    <option name="FILE_MASK" value="*.apexp" />
     <mask>*Representation.java</mask>
     <mask>*GoldFileTest.java</mask>
     <mask>*Test.java</mask>
@@ -28,7 +28,6 @@
     <mask>*.json</mask>
     <mask>!*.xml</mask>
     <mask>*.cmp,*.apexp</mask>
-    <mask>*.apexp</mask>
     <mask>*.css</mask>
     <mask>*Controller.java</mask>
     <mask>*.js</mask>
@@ -36,5 +35,6 @@
     <mask>*Controller.js</mask>
     <mask>*.xml</mask>
     <mask>*.cmp</mask>
+    <mask>*.apexp</mask>
   </component>
 </application>
