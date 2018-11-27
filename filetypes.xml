@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="app" type="HTML" />
       <mapping ext="cmp" type="JSPX" />
       <mapping pattern=".holder" type="PLAIN_TEXT" />
