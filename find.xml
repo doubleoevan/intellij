@@ -26,7 +26,6 @@
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>*.jsx</mask>
-    <mask>*.styl</mask>
     <mask>test_*</mask>
     <mask>*.json</mask>
     <mask>!*.xml</mask>
@@ -41,5 +40,6 @@
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.js</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
