@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*abel*.*" />
     <mask>test_*.js</mask>
     <mask>*Widget.js</mask>
     <mask>Navi*.coffee</mask>
@@ -35,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*.styl</mask>
     <mask>*abels.js</mask>
+    <mask>*abel*.*</mask>
   </component>
 </application>
