@@ -1,10 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>test_*.js</mask>
     <mask>*Widget.js</mask>
     <mask>Navi*.coffee</mask>
@@ -31,9 +36,9 @@
     <mask>*.js</mask>
     <mask>*.coffee</mask>
     <mask>*.hbs</mask>
-    <mask>*.xml</mask>
     <mask>*.styl</mask>
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
