@@ -16,7 +16,6 @@
     <mask>*test*</mask>
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
-    <mask>*.jsx</mask>
     <mask>test_*</mask>
     <mask>*.json</mask>
     <mask>!*.xml</mask>
@@ -37,5 +36,6 @@
     <mask>*snapshot*</mask>
     <mask>*.js</mask>
     <mask>*snapshot-test.js</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
