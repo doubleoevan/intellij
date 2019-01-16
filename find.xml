@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*Representation.java</mask>
     <mask>*GoldFileTest.java</mask>
     <mask>*.html</mask>
@@ -33,7 +34,7 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.js</mask>
     <mask>*.styl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
