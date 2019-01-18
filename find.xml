@@ -36,8 +36,8 @@
     <mask>*snapshot*</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*.coffee</mask>
-    <mask>*.js</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
