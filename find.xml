@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>Navi*.coffee</mask>
     <mask>test*.js</mask>
     <mask>*RC.coffee</mask>
@@ -34,7 +34,7 @@
     <mask>*snapshot-test.js</mask>
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
-    <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
