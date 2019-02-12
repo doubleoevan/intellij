@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>test*.js</mask>
+    <option name="FILE_MASK" value="*.snapshot-test.js" />
     <mask>*RC.coffee</mask>
     <mask>test*</mask>
     <mask>*Widget*</mask>
@@ -33,5 +33,6 @@
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
+    <mask>*.snapshot-test.js</mask>
   </component>
 </application>
