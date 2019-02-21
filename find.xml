@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*RC.coffee</mask>
     <mask>test*</mask>
     <mask>*Widget*</mask>
@@ -24,7 +25,6 @@
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
-    <mask>*.xml</mask>
     <mask>*snapshot*</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*-test.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.jsx</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
