@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>test*</mask>
     <mask>*Widget*</mask>
     <mask>*Widget.coff*</mask>
@@ -19,7 +17,6 @@
     <mask>*Controller.js</mask>
     <mask>*.cmp</mask>
     <mask>*.apexp</mask>
-    <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.css</mask>
     <mask>*.hbs</mask>
@@ -36,5 +33,6 @@
     <mask>*inventory.xml</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
