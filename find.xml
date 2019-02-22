@@ -2,12 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <mask>Navi*.coffee</mask>
-    <mask>test*.js</mask>
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*RC.coffee</mask>
     <mask>test*</mask>
     <mask>*Widget*</mask>
@@ -29,12 +25,14 @@
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
-    <mask>*.xml</mask>
     <mask>*snapshot*</mask>
     <mask>*snapshot-test.js</mask>
-    <mask>*.styl</mask>
-    <mask>*.jsx</mask>
+    <mask>*-test.js</mask>
+    <mask>*.snapshot-test.js</mask>
     <mask>*.coffee</mask>
+    <mask>*.jsx</mask>
+    <mask>*.styl</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
