@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>test*</mask>
     <mask>*Widget*</mask>
     <mask>*Widget.coff*</mask>
@@ -36,9 +36,9 @@
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*inventory.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.coffee</mask>
+    <mask>*.java</mask>
   </component>
 </application>
