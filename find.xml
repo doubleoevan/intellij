@@ -29,7 +29,6 @@
     <mask>*-test.js</mask>
     <mask>*.snapshot-test.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.styl</mask>
     <mask>*inventory.xml</mask>
     <mask>*.json</mask>
     <mask>*.coffee</mask>
@@ -37,5 +36,6 @@
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
