@@ -33,9 +33,9 @@
     <mask>*.json</mask>
     <mask>*.coffee</mask>
     <mask>*.cmp</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.styl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
