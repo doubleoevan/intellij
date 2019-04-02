@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>test*</mask>
     <mask>*Widget*</mask>
     <mask>*Widget.coff*</mask>
@@ -34,8 +35,8 @@
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.coffee</mask>
     <mask>*.xml</mask>
     <mask>*inventory.xml</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
