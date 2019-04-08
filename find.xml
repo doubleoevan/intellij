@@ -5,7 +5,6 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>test*</mask>
     <mask>*Widget*</mask>
     <mask>*Widget.coff*</mask>
     <mask>*test*</mask>
@@ -35,5 +34,6 @@
     <mask>*.xml</mask>
     <mask>*inventory.xml</mask>
     <mask>*.coffee</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
