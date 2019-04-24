@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*Widget*</mask>
     <mask>*Widget.coff*</mask>
     <mask>*test*</mask>
@@ -29,11 +30,11 @@
     <mask>*.cmp</mask>
     <mask>*.json</mask>
     <mask>*.styl</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*inventory.xml</mask>
     <mask>*.coffee</mask>
     <mask>*test.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
