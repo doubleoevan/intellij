@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*Widget*</mask>
     <mask>*Widget.coff*</mask>
     <mask>*test*</mask>
@@ -30,8 +31,8 @@
     <mask>*inventory.xml</mask>
     <mask>*.coffee</mask>
     <mask>*test.js</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
