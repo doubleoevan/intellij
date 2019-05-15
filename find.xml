@@ -28,12 +28,12 @@
     <mask>*.json</mask>
     <mask>*.styl</mask>
     <mask>*inventory.xml</mask>
-    <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*test.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*Test.js</mask>
     <mask>*.coffee</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
