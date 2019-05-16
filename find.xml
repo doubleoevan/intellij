@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Widget.coff*</mask>
+    <option name="FILE_MASK" value="*.html" />
     <mask>*test*</mask>
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
@@ -35,5 +35,6 @@
     <mask>*.coffee</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
+    <mask>*.html</mask>
   </component>
 </application>
