@@ -21,7 +21,6 @@
     <mask>*snapshot-test.js</mask>
     <mask>*-test.js</mask>
     <mask>*.snapshot-test.js</mask>
-    <mask>*.cmp</mask>
     <mask>*.json</mask>
     <mask>*inventory.xml</mask>
     <mask>*test.js</mask>
@@ -33,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
+    <mask>*.cmp</mask>
   </component>
 </application>
