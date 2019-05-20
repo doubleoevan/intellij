@@ -10,7 +10,6 @@
     <mask>!*.xml</mask>
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
-    <mask>*Controller.js</mask>
     <mask>*.apexp</mask>
     <mask>*Test.java</mask>
     <mask>*.css</mask>
@@ -32,6 +31,7 @@
     <mask>*.html</mask>
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
+    <mask>*Controller.js</mask>
     <mask>*.cmp</mask>
   </component>
 </application>
