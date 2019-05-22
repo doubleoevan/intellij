@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cmp" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*test*</mask>
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
@@ -13,7 +13,6 @@
     <mask>*Controller.java</mask>
     <mask>*.apexp</mask>
     <mask>*Test.java</mask>
-    <mask>*.css</mask>
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
@@ -34,5 +33,6 @@
     <mask>*.styl</mask>
     <mask>*Controller.js</mask>
     <mask>*.cmp</mask>
+    <mask>*.css</mask>
   </component>
 </application>
