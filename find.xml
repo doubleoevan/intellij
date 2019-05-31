@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
@@ -28,10 +29,10 @@
     <mask>*.styl</mask>
     <mask>*Conroller.js</mask>
     <mask>*Controller.js</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.cmp</mask>
+    <mask>*.html</mask>
   </component>
 </application>
