@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.cmp" />
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
@@ -32,7 +32,7 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.cmp</mask>
     <mask>*.html</mask>
+    <mask>*.cmp</mask>
   </component>
 </application>
