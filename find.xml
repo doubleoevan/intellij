@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cmp" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
@@ -22,7 +24,6 @@
     <mask>*.json</mask>
     <mask>*inventory.xml</mask>
     <mask>*test.js</mask>
-    <mask>*.java</mask>
     <mask>*Test.js</mask>
     <mask>*.jsx</mask>
     <mask>*.coffee</mask>
@@ -34,5 +35,6 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.cmp</mask>
+    <mask>*.java</mask>
   </component>
 </application>
