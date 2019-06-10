@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*snapshot-test.js" />
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
@@ -17,7 +18,6 @@
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
     <mask>*snapshot*</mask>
-    <mask>*snapshot-test.js</mask>
     <mask>*-test.js</mask>
     <mask>*.snapshot-test.js</mask>
     <mask>*.json</mask>
@@ -28,12 +28,13 @@
     <mask>*Controller.js</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.cmp</mask>
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
+    <mask>*.js</mask>
+    <mask>*snapshot-test.js</mask>
   </component>
 </application>
