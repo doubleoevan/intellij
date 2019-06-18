@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
@@ -35,7 +36,7 @@
     <mask>*.coffee</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
-    <mask>*.js</mask>
     <mask>*snapshot-test.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
