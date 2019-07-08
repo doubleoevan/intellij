@@ -26,7 +26,6 @@
     <mask>*Conroller.js</mask>
     <mask>*Controller.js</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.cmp</mask>
     <mask>*.coffee</mask>
@@ -35,5 +34,6 @@
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
