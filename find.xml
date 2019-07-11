@@ -11,6 +11,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
@@ -38,8 +39,8 @@
     <mask>*snapshot-test.js</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.jsx</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
