@@ -3,39 +3,43 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="preserveCase" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>test*</mask>
-    <mask>*Widget*</mask>
-    <mask>*Widget.coff*</mask>
-    <mask>*test*</mask>
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
     <mask>!*.xml</mask>
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
-    <mask>*Controller.js</mask>
     <mask>*.apexp</mask>
     <mask>*Test.java</mask>
-    <mask>*.css</mask>
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
     <mask>*snapshot*</mask>
-    <mask>*snapshot-test.js</mask>
     <mask>*-test.js</mask>
     <mask>*.snapshot-test.js</mask>
-    <mask>*.jsx</mask>
-    <mask>*.cmp</mask>
     <mask>*.json</mask>
+    <mask>*inventory.xml</mask>
+    <mask>*test.js</mask>
+    <mask>*Test.js</mask>
+    <mask>*Conroller.js</mask>
+    <mask>*Controller.js</mask>
+    <mask>*.html</mask>
+    <mask>*.css</mask>
+    <mask>*.cmp</mask>
+    <mask>*.coffee</mask>
+    <mask>*snapshot-test.js</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
+    <mask>*.jsx</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*inventory.xml</mask>
-    <mask>*.coffee</mask>
   </component>
 </application>
