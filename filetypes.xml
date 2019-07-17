@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="app" type="Erlang/OTP app" />
-      <mapping ext="app" type="HTML" />
       <mapping ext="cmp" type="JSPX" />
       <mapping pattern=".holder" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
