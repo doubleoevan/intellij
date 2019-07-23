@@ -7,6 +7,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.js" />
     <mask>*Widget.coffee</mask>
     <mask>*.apex</mask>
     <mask>test_*</mask>
@@ -23,7 +24,6 @@
     <mask>*.snapshot-test.js</mask>
     <mask>*.json</mask>
     <mask>*inventory.xml</mask>
-    <mask>*test.js</mask>
     <mask>*Test.js</mask>
     <mask>*Conroller.js</mask>
     <mask>*Controller.js</mask>
@@ -37,5 +37,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
