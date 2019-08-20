@@ -5,11 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="preserveCase" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*Controller.js" />
     <mask>*.apex</mask>
     <mask>test_*</mask>
     <mask>!*.xml</mask>
@@ -26,7 +28,6 @@
     <mask>*inventory.xml</mask>
     <mask>*Test.js</mask>
     <mask>*Conroller.js</mask>
-    <mask>*Controller.js</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.cmp</mask>
@@ -40,5 +41,6 @@
     <mask>*.java</mask>
     <mask>*.jsx</mask>
     <mask>*.coffee</mask>
+    <mask>*Controller.js</mask>
   </component>
 </application>
