@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Helper.js" />
+    <option name="FILE_MASK" value="*Controller.js" />
     <mask>!*.xml</mask>
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
@@ -38,7 +38,7 @@
     <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*cmp</mask>
-    <mask>*Controller.js</mask>
     <mask>*Helper.js</mask>
+    <mask>*Controller.js</mask>
   </component>
 </application>
