@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>!*.xml</mask>
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
@@ -32,10 +33,10 @@
     <mask>*.java</mask>
     <mask>*.jsx</mask>
     <mask>*Helper.js</mask>
-    <mask>*.js</mask>
     <mask>*cmp</mask>
     <mask>*.html</mask>
-    <mask>*Controller.js</mask>
     <mask>*.env</mask>
+    <mask>*Controller.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
