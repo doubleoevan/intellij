@@ -11,6 +11,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>!*.xml</mask>
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
@@ -27,7 +28,6 @@
     <mask>*Conroller.js</mask>
     <mask>*.css</mask>
     <mask>*.cmp</mask>
-    <mask>*.styl</mask>
     <mask>*test.js</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*.env</mask>
@@ -41,5 +41,6 @@
     <mask>*cmp</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
