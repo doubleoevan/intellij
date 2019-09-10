@@ -1,17 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="preserveCase" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cmp" />
+    <option name="FILE_MASK" value="*Controller.js" />
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
     <mask>*.apexp</mask>
@@ -39,8 +35,8 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.evt</mask>
-    <mask>*Controller.js</mask>
     <mask>*.js</mask>
     <mask>*.cmp</mask>
+    <mask>*Controller.js</mask>
   </component>
 </application>
