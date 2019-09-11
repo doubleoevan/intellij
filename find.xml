@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
     <mask>*.apexp</mask>
@@ -29,11 +30,11 @@
     <mask>*.xml</mask>
     <mask>*Controller.js</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.evt</mask>
     <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*.cmp</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
