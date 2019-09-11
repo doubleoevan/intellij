@@ -5,7 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.evt" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
     <mask>*.apexp</mask>
@@ -25,7 +25,6 @@
     <mask>*.json</mask>
     <mask>*.coffee</mask>
     <mask>*.java</mask>
-    <mask>*.jsx</mask>
     <mask>*Helper.js</mask>
     <mask>*cmp</mask>
     <mask>*.env</mask>
@@ -36,5 +35,6 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.evt</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
