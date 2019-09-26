@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.cmp,*.apexp</mask>
     <mask>*Controller.java</mask>
     <mask>*.apexp</mask>
@@ -31,7 +32,6 @@
     <mask>*.env</mask>
     <mask>*.xml</mask>
     <mask>*Controller.js</mask>
-    <mask>*.css</mask>
     <mask>*.coffee</mask>
     <mask>*.cmp</mask>
     <mask>*.jsx</mask>
@@ -39,5 +39,6 @@
     <mask>*.evt</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.css</mask>
   </component>
 </application>
