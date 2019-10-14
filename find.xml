@@ -11,7 +11,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Controller.java</mask>
+    <option name="FILE_MASK" value="!*.java" />
     <mask>*.apexp</mask>
     <mask>*Test.java</mask>
     <mask>*.hbs</mask>
@@ -41,5 +41,6 @@
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>!*.css</mask>
+    <mask>!*.java</mask>
   </component>
 </application>
