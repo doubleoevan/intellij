@@ -11,7 +11,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller.js" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.apexp</mask>
     <mask>*Test.java</mask>
     <mask>*.hbs</mask>
@@ -37,10 +37,10 @@
     <mask>*.evt</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>!*.css</mask>
     <mask>!*.java</mask>
     <mask>*Controller.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
