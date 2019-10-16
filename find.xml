@@ -25,7 +25,6 @@
     <mask>*test.js</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*Helper.js</mask>
     <mask>*cmp</mask>
     <mask>*.env</mask>
@@ -41,5 +40,6 @@
     <mask>!*.java</mask>
     <mask>*Controller.js</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
