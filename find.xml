@@ -11,13 +11,12 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.json" />
+    <option name="FILE_MASK" value="*.snapshot-test.js" />
     <mask>*Test.java</mask>
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
     <mask>*snapshot*</mask>
-    <mask>*.snapshot-test.js</mask>
     <mask>*inventory.xml</mask>
     <mask>*Test.js</mask>
     <mask>*Conroller.js</mask>
@@ -42,5 +41,6 @@
     <mask>*.java</mask>
     <mask>*.jsx</mask>
     <mask>!*.json</mask>
+    <mask>*.snapshot-test.js</mask>
   </component>
 </application>
