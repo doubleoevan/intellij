@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*Test.java</mask>
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
@@ -34,10 +35,10 @@
     <mask>!*.css</mask>
     <mask>!*.java</mask>
     <mask>*Controller.js</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.jsx</mask>
     <mask>!*.json</mask>
     <mask>*.snapshot-test.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
