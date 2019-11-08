@@ -31,11 +31,11 @@
     <mask>!*.java</mask>
     <mask>*Controller.js</mask>
     <mask>!*.json</mask>
-    <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*inventory.xml</mask>
     <mask>*.java</mask>
     <mask>*.apexp</mask>
     <mask>*.snapshot-test.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
