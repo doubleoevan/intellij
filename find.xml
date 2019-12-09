@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
     <mask>*abel*.*</mask>
@@ -28,12 +27,12 @@
     <mask>!*.java</mask>
     <mask>*Controller.js</mask>
     <mask>!*.json</mask>
-    <mask>*.jsx</mask>
     <mask>*inventory.xml</mask>
     <mask>*.java</mask>
     <mask>*.apexp</mask>
     <mask>*.snapshot-test.js</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
