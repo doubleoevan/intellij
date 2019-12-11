@@ -3,9 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.hbs</mask>
     <mask>*abels.js</mask>
@@ -35,7 +33,7 @@
     <mask>*.snapshot-test.js</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.styl</mask>
     <mask>*.jsx</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
