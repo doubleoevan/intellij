@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*snapshot-test.js" />
+    <option name="FILE_MASK" value="*test.js" />
     <mask>*abel*.*</mask>
     <mask>*snapshot*</mask>
     <mask>*Test.js</mask>
@@ -31,10 +31,10 @@
     <mask>*.xml</mask>
     <mask>*.test</mask>
     <mask>*info.json</mask>
-    <mask>*test.js</mask>
     <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*.styl</mask>
     <mask>*snapshot-test.js</mask>
+    <mask>*test.js</mask>
   </component>
 </application>
