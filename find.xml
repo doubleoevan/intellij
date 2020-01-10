@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*snapshot-test.js" />
+    <option name="FILE_MASK" value="*Widget.js" />
     <mask>*snapshot*</mask>
     <mask>*Test.js</mask>
     <mask>*Conroller.js</mask>
@@ -34,7 +34,7 @@
     <mask>*.jsx</mask>
     <mask>*.styl</mask>
     <mask>*.cmp</mask>
-    <mask>*Widget.js</mask>
     <mask>*snapshot-test.js</mask>
+    <mask>*Widget.js</mask>
   </component>
 </application>
