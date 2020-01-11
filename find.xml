@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*snapshot*</mask>
     <mask>*Test.js</mask>
     <mask>*Conroller.js</mask>
@@ -32,10 +33,10 @@
     <mask>*.coffee</mask>
     <mask>*test.js</mask>
     <mask>*.js</mask>
-    <mask>*.jsx</mask>
     <mask>*.styl</mask>
     <mask>*.cmp</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*Widget.js</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
