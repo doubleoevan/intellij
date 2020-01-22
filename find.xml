@@ -24,7 +24,6 @@
     <mask>*.test</mask>
     <mask>*info.json</mask>
     <mask>*.coffee</mask>
-    <mask>*.styl</mask>
     <mask>*.cmp</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*Widget.js</mask>
@@ -33,5 +32,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.jsx</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
