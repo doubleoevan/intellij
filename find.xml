@@ -9,7 +9,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
     <mask>*Test.js</mask>
     <mask>*Conroller.js</mask>
     <mask>*Helper.js</mask>
@@ -34,11 +33,11 @@
     <mask>*snapshot-test.js</mask>
     <mask>*Controller.java</mask>
     <mask>*test.js</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.styl</mask>
     <mask>*Widget.js</mask>
     <mask>*.xml</mask>
     <mask>*.jsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
