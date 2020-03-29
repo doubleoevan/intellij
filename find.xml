@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>*Conroller.js</mask>
     <mask>*Helper.js</mask>
     <mask>*cmp</mask>
@@ -28,12 +29,12 @@
     <mask>*Controller.java</mask>
     <mask>*test.js</mask>
     <mask>*.json</mask>
-    <mask>*.styl</mask>
     <mask>*Widget.js</mask>
     <mask>*.xml</mask>
     <mask>*.gates</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
