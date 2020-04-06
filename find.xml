@@ -7,11 +7,10 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.env" />
     <mask>*Conroller.js</mask>
     <mask>*Helper.js</mask>
     <mask>*cmp</mask>
-    <mask>*.env</mask>
     <mask>*-test.js</mask>
     <mask>*.evt</mask>
     <mask>*.html</mask>
@@ -38,5 +37,6 @@
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
+    <mask>*.env</mask>
   </component>
 </application>
