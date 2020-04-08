@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Conroller.js</mask>
+    <option name="FILE_MASK" value="*.gates" />
     <mask>*Helper.js</mask>
     <mask>*cmp</mask>
     <mask>*-test.js</mask>
@@ -29,11 +29,12 @@
     <mask>*.json</mask>
     <mask>*Widget.js</mask>
     <mask>*.xml</mask>
-    <mask>*.gates</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.env</mask>
     <mask>*.jsx</mask>
     <mask>*.styl</mask>
+    <mask>*.gate</mask>
+    <mask>*.gates</mask>
   </component>
 </application>
