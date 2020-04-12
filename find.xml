@@ -31,9 +31,9 @@
     <mask>*.gate</mask>
     <mask>*.gates</mask>
     <mask>*.styl</mask>
-    <mask>*.js</mask>
     <mask>*test.js</mask>
     <mask>*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
