@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Widget.js" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*cmp</mask>
     <mask>*-test.js</mask>
     <mask>*.evt</mask>
@@ -22,7 +22,6 @@
     <mask>*.cmp</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*Controller.java</mask>
-    <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.env</mask>
     <mask>*.gate</mask>
@@ -34,5 +33,6 @@
     <mask>*.snap</mask>
     <mask>*test.js</mask>
     <mask>*Widget.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>
