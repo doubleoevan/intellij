@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*cmp</mask>
     <mask>*-test.js</mask>
     <mask>*.evt</mask>
@@ -32,7 +31,7 @@
     <mask>*.snap</mask>
     <mask>*test.js</mask>
     <mask>*Widget.js</mask>
-    <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>
