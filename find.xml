@@ -32,10 +32,10 @@
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*.snap</mask>
     <mask>*test.js</mask>
     <mask>*Widget.js</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
