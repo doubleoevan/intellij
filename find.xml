@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*cmp</mask>
     <mask>*-test.js</mask>
     <mask>*.evt</mask>
@@ -30,8 +31,8 @@
     <mask>*.json</mask>
     <mask>*.snap</mask>
     <mask>*Widget.js</mask>
-    <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*test.js</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
