@@ -35,7 +35,7 @@
     <mask>*test.js</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*.coffee</mask>
     <mask>*Type.coffee</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
