@@ -1,19 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Test.js</mask>
-    <mask>*Conroller.js</mask>
-    <mask>*Helper.js</mask>
-    <mask>*cmp</mask>
-    <mask>*.env</mask>
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*-test.js</mask>
     <mask>*.evt</mask>
     <mask>*.html</mask>
@@ -23,21 +15,26 @@
     <mask>*Controller.js</mask>
     <mask>!*.json</mask>
     <mask>*inventory.xml</mask>
-    <mask>*.java</mask>
     <mask>*.apexp</mask>
     <mask>*.snapshot-test.js</mask>
     <mask>*.test</mask>
     <mask>*info.json</mask>
-    <mask>*.coffee</mask>
     <mask>*.cmp</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*Controller.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.env</mask>
+    <mask>*.gate</mask>
+    <mask>*.gates</mask>
+    <mask>*.styl</mask>
+    <mask>*.java</mask>
+    <mask>*.json</mask>
+    <mask>*.snap</mask>
+    <mask>*Widget.js</mask>
     <mask>*test.js</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
-    <mask>*.styl</mask>
+    <mask>*Type.coffee</mask>
     <mask>*.jsx</mask>
-    <mask>*Widget.js</mask>
-    <mask>*.xml</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
