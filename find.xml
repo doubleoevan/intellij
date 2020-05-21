@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.java" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*-test.js</mask>
     <mask>*.evt</mask>
     <mask>*.html</mask>
@@ -34,7 +34,7 @@
     <mask>*Type.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*.coffee</mask>
-    <mask>*.java</mask>
     <mask>!*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
