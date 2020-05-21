@@ -5,13 +5,12 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*-test.js</mask>
     <mask>*.evt</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>!*.css</mask>
-    <mask>!*.java</mask>
     <mask>*Controller.js</mask>
     <mask>!*.json</mask>
     <mask>*inventory.xml</mask>
@@ -27,7 +26,6 @@
     <mask>*.gate</mask>
     <mask>*.gates</mask>
     <mask>*.styl</mask>
-    <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.snap</mask>
     <mask>*Widget.js</mask>
@@ -36,5 +34,7 @@
     <mask>*Type.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*.coffee</mask>
+    <mask>!*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
