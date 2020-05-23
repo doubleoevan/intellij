@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.evt</mask>
+    <option name="FILE_MASK" value="*Service.java" />
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>!*.css</mask>
@@ -36,5 +35,6 @@
     <mask>*Resource.java</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
+    <mask>*Service.java</mask>
   </component>
 </application>
