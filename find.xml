@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>!*.css</mask>
@@ -18,7 +19,6 @@
     <mask>*.cmp</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*Controller.java</mask>
-    <mask>*.xml</mask>
     <mask>*.env</mask>
     <mask>*.gate</mask>
     <mask>*.gates</mask>
@@ -35,5 +35,6 @@
     <mask>!*.java</mask>
     <mask>*.java</mask>
     <mask>*Service.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
