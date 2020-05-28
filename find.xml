@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>!*.css</mask>
@@ -31,9 +32,9 @@
     <mask>*.jsx</mask>
     <mask>*.coffee</mask>
     <mask>!*.java</mask>
-    <mask>*.java</mask>
     <mask>*Service.java</mask>
     <mask>*.xml</mask>
     <mask>*Resource.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
