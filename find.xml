@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.java" />
-    <mask>!*.css</mask>
+    <option name="FILE_MASK" value="Connect*Enum.java" />
     <mask>*Controller.js</mask>
     <mask>!*.json</mask>
     <mask>*inventory.xml</mask>
@@ -31,8 +30,9 @@
     <mask>*Service.java</mask>
     <mask>*Resource.java</mask>
     <mask>*AssetCollectionApiTest.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
+    <mask>*.java</mask>
+    <mask>Connect*Enum.java</mask>
   </component>
 </application>
