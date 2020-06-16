@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*inventory.xml</mask>
     <mask>*.apexp</mask>
     <mask>*.snapshot-test.js</mask>
@@ -31,7 +32,7 @@
     <mask>*Test.java</mask>
     <mask>Connect*Enum.java</mask>
     <mask>~*.java</mask>
-    <mask>*.java</mask>
     <mask>*Configuration.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
