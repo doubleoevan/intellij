@@ -9,8 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.json,!*.chunk.js,!edge.*" />
-    <mask>*.apexp</mask>
+    <option name="FILE_MASK" value="!*.chunk.js,!edge.*" />
     <mask>*.snapshot-test.js</mask>
     <mask>*.test</mask>
     <mask>*info.json</mask>
@@ -40,5 +39,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
+    <mask>!*.chunk.js,!edge.*</mask>
   </component>
 </application>
