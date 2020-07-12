@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*info.json</mask>
+    <option name="FILE_MASK" value="*.js,*.coffee,!*test.js,!edge.*.js" />
     <mask>*.cmp</mask>
     <mask>*snapshot-test.js</mask>
     <mask>*Controller.java</mask>
@@ -41,5 +41,6 @@
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js</mask>
     <mask>*.js,*.coffee</mask>
+    <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
   </component>
 </application>
