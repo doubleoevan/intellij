@@ -26,7 +26,6 @@
     <mask>Connect*Enum.java</mask>
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
-    <mask>*.styl</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
@@ -35,5 +34,6 @@
     <mask>*.js</mask>
     <mask>*.js,*.coffee</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
