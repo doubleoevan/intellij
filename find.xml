@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.cmp</mask>
     <mask>*snapshot-test.js</mask>
@@ -29,7 +25,6 @@
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
     <mask>*.java</mask>
-    <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>!*.chunk.js,!edge.*</mask>
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js</mask>
@@ -37,5 +32,6 @@
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>*.styl</mask>
     <mask>*.xml</mask>
+    <mask>!*.json,!*.chunk.js,!edge.*</mask>
   </component>
 </application>
