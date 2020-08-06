@@ -4,19 +4,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*snapshot-test.js</mask>
     <mask>*Controller.java</mask>
     <mask>*.env</mask>
     <mask>*.gate</mask>
     <mask>*.gates</mask>
-    <mask>*.json</mask>
     <mask>*.snap</mask>
     <mask>*Widget.js</mask>
     <mask>*test.js</mask>
@@ -41,5 +39,6 @@
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
     <mask>*.coffee</mask>
+    <mask>*.json</mask>
   </component>
 </application>
