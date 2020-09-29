@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*snapshot-test.js</mask>
     <mask>*Controller.java</mask>
     <mask>*.env</mask>
@@ -25,7 +26,6 @@
     <mask>*Configuration.java</mask>
     <mask>!*.chunk.js,!edge.*</mask>
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
-    <mask>*.js</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>*.styl</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
@@ -35,5 +35,6 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
