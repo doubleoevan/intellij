@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*test*" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.gates</mask>
     <mask>*.snap</mask>
     <mask>*Widget.js</mask>
@@ -31,8 +31,8 @@
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
-    <mask>*.jsx</mask>
     <mask>*unit-test*</mask>
     <mask>*test*</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
