@@ -5,9 +5,9 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Widget.js" />
     <mask>*.gates</mask>
     <mask>*.snap</mask>
-    <mask>*Widget.js</mask>
     <mask>*test.js</mask>
     <mask>*Type.coffee</mask>
     <mask>!*.java</mask>
@@ -35,5 +35,6 @@
     <mask>*unit-test*</mask>
     <mask>*test*</mask>
     <mask>*.jsx</mask>
+    <mask>*Widget.js</mask>
   </component>
 </application>
