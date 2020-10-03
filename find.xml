@@ -32,8 +32,8 @@
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
     <mask>*unit-test*</mask>
-    <mask>*test*</mask>
     <mask>*.jsx</mask>
     <mask>*Widget.js</mask>
+    <mask>*test*</mask>
   </component>
 </application>
