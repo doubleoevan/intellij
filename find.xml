@@ -2,8 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*test*" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.gates</mask>
     <mask>*.snap</mask>
     <mask>*test.js</mask>
@@ -23,7 +27,6 @@
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
-    <mask>*.coffee</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
@@ -34,5 +37,6 @@
     <mask>*.jsx</mask>
     <mask>*Widget.js</mask>
     <mask>*test*</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
