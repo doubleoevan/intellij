@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*test*" />
     <mask>*.gates</mask>
     <mask>*.snap</mask>
     <mask>*test.js</mask>
@@ -36,7 +36,7 @@
     <mask>*unit-test*</mask>
     <mask>*.jsx</mask>
     <mask>*Widget.js</mask>
-    <mask>*test*</mask>
     <mask>*.coffee</mask>
+    <mask>*test*</mask>
   </component>
 </application>
