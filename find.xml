@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.gates</mask>
     <mask>*.snap</mask>
     <mask>*test.js</mask>
@@ -23,7 +24,6 @@
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*.jsx</mask>
     <mask>*test*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
