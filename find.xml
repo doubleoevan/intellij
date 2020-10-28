@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.snap</mask>
     <mask>*test.js</mask>
     <mask>*Type.coffee</mask>
@@ -11,7 +11,6 @@
     <mask>*Service.java</mask>
     <mask>*Resource.java</mask>
     <mask>*AssetCollectionApiTest.java</mask>
-    <mask>*Test.java</mask>
     <mask>Connect*Enum.java</mask>
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
@@ -34,5 +33,6 @@
     <mask>*test*</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
