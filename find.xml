@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Type.coffee</mask>
     <mask>!*.java</mask>
     <mask>*Service.java</mask>
@@ -27,7 +28,6 @@
     <mask>*unit-test*</mask>
     <mask>*Widget.js</mask>
     <mask>*.coffee</mask>
-    <mask>*.xml</mask>
     <mask>*.jsx</mask>
     <mask>*test*</mask>
     <mask>pom.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*inventory.xml</mask>
     <mask>*UddConstants.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
