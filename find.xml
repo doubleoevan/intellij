@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*Service.java</mask>
     <mask>*Resource.java</mask>
     <mask>*AssetCollectionApiTest.java</mask>
@@ -37,9 +38,9 @@
     <mask>*Test.java</mask>
     <mask>*inventory.xml</mask>
     <mask>*UddConstants.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*Representation.java</mask>
     <mask>*InputRepresentation.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
