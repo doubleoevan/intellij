@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.factories" />
     <mask>*Resource.java</mask>
     <mask>*AssetCollectionApiTest.java</mask>
     <mask>Connect*Enum.java</mask>
