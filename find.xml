@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*Resource.java</mask>
     <mask>*AssetCollectionApiTest.java</mask>
     <mask>Connect*Enum.java</mask>
@@ -20,7 +20,6 @@
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
-    <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
     <mask>*Widget.js</mask>
@@ -38,5 +37,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
