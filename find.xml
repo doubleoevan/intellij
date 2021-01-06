@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*unit-test*" />
     <mask>*Resource.java</mask>
     <mask>*AssetCollectionApiTest.java</mask>
     <mask>Connect*Enum.java</mask>
@@ -27,11 +28,11 @@
     <mask>*Representation.java</mask>
     <mask>*InputRepresentation.java</mask>
     <mask>*.factories</mask>
-    <mask>*unit-test*</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*unit-test*</mask>
   </component>
 </application>
