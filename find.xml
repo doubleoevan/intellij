@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*Resource.java</mask>
     <mask>*AssetCollectionApiTest.java</mask>
     <mask>Connect*Enum.java</mask>
@@ -21,7 +22,6 @@
     <mask>*test*.js</mask>
     <mask>*Widget.js</mask>
     <mask>*.coffee</mask>
-    <mask>*.jsx</mask>
     <mask>*test*</mask>
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
@@ -35,5 +35,6 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
