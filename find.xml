@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Resource.java</mask>
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*AssetCollectionApiTest.java</mask>
     <mask>Connect*Enum.java</mask>
     <mask>~*.java</mask>
@@ -31,7 +31,8 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.jsx</mask>
     <mask>*unit-test*</mask>
+    <mask>labels.js</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
