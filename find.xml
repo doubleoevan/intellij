@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test*" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>Connect*Enum.java</mask>
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
@@ -27,12 +27,12 @@
     <mask>*InputRepresentation.java</mask>
     <mask>*.factories</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
     <mask>*unit-test*</mask>
     <mask>labels.js</mask>
     <mask>*.jsx</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*Test*</mask>
+    <mask>*.json</mask>
   </component>
 </application>
