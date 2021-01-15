@@ -34,9 +34,9 @@
     <mask>labels.js</mask>
     <mask>*.jsx</mask>
     <mask>*.java</mask>
-    <mask>*.json</mask>
     <mask>*Test*</mask>
     <mask>*test*</mask>
+    <mask>*.json</mask>
     <mask>*.xml</mask>
   </component>
 </application>
