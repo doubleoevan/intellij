@@ -5,8 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <mask>Connect*Enum.java</mask>
+    <option name="FILE_MASK" value="Local*.js" />
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
     <mask>!*.chunk.js,!edge.*</mask>
@@ -36,5 +35,6 @@
     <mask>*.java</mask>
     <mask>*unit-test*</mask>
     <mask>*.js</mask>
+    <mask>Local*.js</mask>
   </component>
 </application>
