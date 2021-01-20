@@ -7,13 +7,12 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
     <mask>!*.chunk.js,!edge.*</mask>
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
-    <mask>*.styl</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
@@ -38,5 +37,6 @@
     <mask>*test*</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
