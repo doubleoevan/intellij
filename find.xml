@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*unit-test*" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>Connect*Enum.java</mask>
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
@@ -25,7 +27,6 @@
     <mask>*Representation.java</mask>
     <mask>*InputRepresentation.java</mask>
     <mask>*.factories</mask>
-    <mask>*.js</mask>
     <mask>labels.js</mask>
     <mask>*.jsx</mask>
     <mask>*Test*</mask>
@@ -34,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*unit-test*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
