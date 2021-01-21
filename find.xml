@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
     <mask>!*.chunk.js,!edge.*</mask>
@@ -21,7 +21,6 @@
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
     <mask>*Widget.js</mask>
-    <mask>*.coffee</mask>
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*inventory.xml</mask>
@@ -38,7 +37,8 @@
     <mask>Local*.js</mask>
     <mask>*test*</mask>
     <mask>*.js</mask>
-    <mask>*.styl</mask>
     <mask>*.jsx</mask>
+    <mask>*.coffee</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
