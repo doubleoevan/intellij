@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Widget.js" />
     <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
     <mask>!*.chunk.js,!edge.*</mask>
@@ -15,7 +16,6 @@
     <mask>*.js,*.coffee</mask>
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
-    <mask>*Widget.js</mask>
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*inventory.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*.js</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
+    <mask>*Widget.js</mask>
   </component>
 </application>
