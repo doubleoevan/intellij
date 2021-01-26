@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
-    <mask>~*.java</mask>
     <mask>*Configuration.java</mask>
     <mask>!*.chunk.js,!edge.*</mask>
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
@@ -33,6 +32,7 @@
     <mask>*.jsx</mask>
     <mask>*unit-test*</mask>
     <mask>*Widget.js</mask>
+    <mask>Rest*.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
