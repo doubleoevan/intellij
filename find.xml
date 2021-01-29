@@ -31,7 +31,7 @@
     <mask>*Style.js</mask>
     <mask>*.coffee</mask>
     <mask>*.jsx</mask>
-    <mask>*Widget.js</mask>
     <mask>*unit-test*</mask>
+    <mask>*Widget.js</mask>
   </component>
 </application>
