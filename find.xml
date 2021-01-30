@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*unit-test*" />
     <mask>!*.chunk.js,!edge.*</mask>
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
@@ -31,11 +32,11 @@
     <mask>*test*</mask>
     <mask>*.styl</mask>
     <mask>Rest*.js</mask>
-    <mask>*.js</mask>
     <mask>*Style.js</mask>
     <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*Widget.js</mask>
+    <mask>*.js</mask>
     <mask>*unit-test*</mask>
   </component>
 </application>
