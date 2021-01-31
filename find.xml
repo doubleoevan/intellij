@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>!*.chunk.js,!edge.*</mask>
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
@@ -28,11 +28,11 @@
     <mask>*test*</mask>
     <mask>*.styl</mask>
     <mask>Rest*.js</mask>
-    <mask>*Style.js</mask>
     <mask>*.coffee</mask>
     <mask>*Widget.js</mask>
-    <mask>*.js</mask>
     <mask>*unit-test*</mask>
     <mask>*.jsx</mask>
+    <mask>*Style.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
