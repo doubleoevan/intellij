@@ -1,15 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*unit-test*" />
+    <option name="FILE_MASK" value="*Style.js" />
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
@@ -33,12 +31,12 @@
     <mask>*test*</mask>
     <mask>*.styl</mask>
     <mask>Rest*.js</mask>
-    <mask>*Style.js</mask>
     <mask>*labels.js</mask>
     <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*Widget.js</mask>
     <mask>*unit-test*</mask>
+    <mask>*Style.js</mask>
   </component>
 </application>
