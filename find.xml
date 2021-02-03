@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*unit-test*" />
+    <option name="FILE_MASK" value="*Widget.js" />
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
@@ -34,7 +34,7 @@
     <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*Widget.js</mask>
     <mask>*unit-test*</mask>
+    <mask>*Widget.js</mask>
   </component>
 </application>
