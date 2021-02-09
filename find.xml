@@ -25,7 +25,6 @@
     <mask>*.factories</mask>
     <mask>labels.js</mask>
     <mask>*Test*</mask>
-    <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>Local*.js</mask>
@@ -39,5 +38,6 @@
     <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*unit-test*</mask>
+    <mask>*.json</mask>
   </component>
 </application>
