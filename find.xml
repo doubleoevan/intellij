@@ -35,7 +35,7 @@
     <mask>*Style.js</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*unit-test*</mask>
     <mask>*.json</mask>
+    <mask>*unit-test*</mask>
   </component>
 </application>
