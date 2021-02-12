@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*MetadataBuilder.js,!*.chunk.js,!edge.*</mask>
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
@@ -33,9 +34,9 @@
     <mask>*.coffee</mask>
     <mask>*Widget.js</mask>
     <mask>*Style.js</mask>
-    <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*unit-test*</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
