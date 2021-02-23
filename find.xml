@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
@@ -22,7 +22,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>Local*.js</mask>
-    <mask>*.styl</mask>
     <mask>Rest*.js</mask>
     <mask>*labels.js</mask>
     <mask>*.coffee</mask>
@@ -30,9 +29,10 @@
     <mask>abel.js</mask>
     <mask>*Widget.js</mask>
     <mask>*unit-test*</mask>
-    <mask>*.js</mask>
     <mask>*test*</mask>
     <mask>*.json</mask>
     <mask>*.jsx</mask>
+    <mask>*.js</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
