@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
@@ -26,7 +27,6 @@
     <mask>*.factories</mask>
     <mask>labels.js</mask>
     <mask>*Test*</mask>
-    <mask>*.java</mask>
     <mask>Local*.js</mask>
     <mask>Rest*.js</mask>
     <mask>*labels.js</mask>
@@ -41,5 +41,6 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
+    <mask>*.java</mask>
   </component>
 </application>
