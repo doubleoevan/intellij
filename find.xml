@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.js,*.coffee,!*test.js,!edge.*.js</mask>
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
@@ -34,10 +35,10 @@
     <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.coffee</mask>
     <mask>*Widget.js</mask>
     <mask>*unit-test*</mask>
+    <mask>*.js</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
