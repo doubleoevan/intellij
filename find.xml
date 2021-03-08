@@ -36,9 +36,9 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*Widget.js</mask>
-    <mask>*unit-test*</mask>
     <mask>*.js</mask>
     <mask>*.coffee</mask>
+    <mask>*unit-test*</mask>
     <mask>*.jsx</mask>
   </component>
 </application>
