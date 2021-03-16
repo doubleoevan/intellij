@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*unit-test*" />
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
@@ -31,7 +32,7 @@
     <mask>*.coffee</mask>
     <mask>*Widget.js</mask>
     <mask>*.jsx</mask>
-    <mask>*unit-test*</mask>
     <mask>Rest*</mask>
+    <mask>*unit-test*</mask>
   </component>
 </application>
