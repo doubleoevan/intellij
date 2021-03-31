@@ -29,9 +29,9 @@
     <mask>Rest*</mask>
     <mask>*.xml</mask>
     <mask>*Widget.js</mask>
-    <mask>*.js</mask>
     <mask>*unit-test*</mask>
-    <mask>*.jsx</mask>
     <mask>*.coffee</mask>
+    <mask>*.jsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
