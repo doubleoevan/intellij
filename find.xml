@@ -7,13 +7,13 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
     <mask>pom.xml</mask>
-    <mask>*Test.java</mask>
     <mask>*inventory.xml</mask>
     <mask>*UddConstants.java</mask>
     <mask>*Representation.java</mask>
@@ -37,5 +37,6 @@
     <mask>labels.js</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
