@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*unit-test*" />
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
@@ -35,11 +36,11 @@
     <mask>Rest*</mask>
     <mask>*.xml</mask>
     <mask>*Widget.js</mask>
-    <mask>*unit-test*</mask>
     <mask>*.coffee</mask>
     <mask>labels.js</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*Test.java</mask>
+    <mask>*unit-test*</mask>
   </component>
 </application>
