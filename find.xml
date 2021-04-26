@@ -26,7 +26,6 @@
     <mask>abel.js</mask>
     <mask>*test*</mask>
     <mask>*.styl</mask>
-    <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>Rest*</mask>
     <mask>*.xml</mask>
@@ -37,5 +36,6 @@
     <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>*unit-test*</mask>
+    <mask>*.json</mask>
   </component>
 </application>
