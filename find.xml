@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>!*.json,!*.chunk.js,!edge.*</mask>
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
@@ -26,7 +27,6 @@
     <mask>abel.js</mask>
     <mask>*test*</mask>
     <mask>*.styl</mask>
-    <mask>*.java</mask>
     <mask>Rest*</mask>
     <mask>*.xml</mask>
     <mask>*Widget.js</mask>
@@ -37,5 +37,6 @@
     <mask>*.jsx</mask>
     <mask>*unit-test*</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
