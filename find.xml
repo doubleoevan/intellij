@@ -33,9 +33,9 @@
     <mask>*.js</mask>
     <mask>*Test.java</mask>
     <mask>*.coffee</mask>
-    <mask>*.jsx</mask>
     <mask>*unit-test*</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
