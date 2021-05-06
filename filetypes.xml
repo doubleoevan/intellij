@@ -1,10 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="sql" type="DBN-SQL" />
       <mapping ext="apexp" type="HTML" />
       <mapping ext="gates" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="sql" type="SQL" />
+      <mapping ext="tsv" type="TSV" />
       <mapping ext="evt" type="XHTML" />
       <mapping ext="cmp" type="XHTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
