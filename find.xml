@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
     <mask>*.sql</mask>
@@ -30,7 +30,6 @@
     <mask>*.xml</mask>
     <mask>*Widget.js</mask>
     <mask>labels.js</mask>
-    <mask>*.js</mask>
     <mask>*Test.java</mask>
     <mask>*.coffee</mask>
     <mask>*unit-test*</mask>
@@ -38,5 +37,6 @@
     <mask>*.java</mask>
     <mask>*.jsx</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
   </component>
 </application>
