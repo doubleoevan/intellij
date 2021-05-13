@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>test*.js</mask>
     <mask>*.js,*.coffee</mask>
     <mask>*.sql</mask>
@@ -38,9 +38,9 @@
     <mask>*.coffee</mask>
     <mask>*unit-test*</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.jsx</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
