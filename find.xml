@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>test*.js</mask>
+    <option name="FILE_MASK" value="*settings.xml" />
     <mask>*.js,*.coffee</mask>
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*settings.xml</mask>
   </component>
 </application>
