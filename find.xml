@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>*.sql</mask>
     <mask>*test*.js</mask>
     <mask>*inventory.xml</mask>
@@ -17,7 +18,6 @@
     <mask>*Style.js</mask>
     <mask>abel.js</mask>
     <mask>*test*</mask>
-    <mask>*.styl</mask>
     <mask>Rest*</mask>
     <mask>*Widget.js</mask>
     <mask>labels.js</mask>
@@ -33,5 +33,6 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
