@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*UddConstants.java</mask>
     <mask>*Representation.java</mask>
     <mask>*InputRepresentation.java</mask>
@@ -29,7 +30,6 @@
     <mask>*.json</mask>
     <mask>*.jsx</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*shared*settings.xml</mask>
     <mask>*settings.xml</mask>
     <mask>pom.xml</mask>
@@ -41,5 +41,6 @@
     <mask>*labels.js</mask>
     <mask>*.styl</mask>
     <mask>*.coffee</mask>
+    <mask>*.js</mask>
   </component>
 </application>
