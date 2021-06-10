@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*labels.js" />
     <mask>*UddConstants.java</mask>
     <mask>*Representation.java</mask>
     <mask>*InputRepresentation.java</mask>
@@ -12,7 +13,6 @@
     <mask>*Test*</mask>
     <mask>Local*.js</mask>
     <mask>Rest*.js</mask>
-    <mask>*labels.js</mask>
     <mask>*Style.js</mask>
     <mask>abel.js</mask>
     <mask>*test*</mask>
@@ -35,5 +35,6 @@
     <mask>*.styl</mask>
     <mask>*label*</mask>
     <mask>*.coffee</mask>
+    <mask>*labels.js</mask>
   </component>
 </application>
