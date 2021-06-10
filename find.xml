@@ -31,9 +31,9 @@
     <mask>*.xml</mask>
     <mask>*Type.js</mask>
     <mask>*Type.*</mask>
-    <mask>*.styl</mask>
     <mask>*label*</mask>
     <mask>*.coffee</mask>
     <mask>*labels.js</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
