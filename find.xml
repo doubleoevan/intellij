@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*UddConstants.java</mask>
     <mask>*Representation.java</mask>
     <mask>*InputRepresentation.java</mask>
@@ -32,7 +32,7 @@
     <mask>*labels.js</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
-    <mask>*.js</mask>
     <mask>*.coffee</mask>
+    <mask>*.js</mask>
   </component>
 </application>
