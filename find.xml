@@ -37,9 +37,9 @@
     <mask>*label*</mask>
     <mask>*labels.js</mask>
     <mask>*.styl</mask>
-    <mask>*.coffee</mask>
     <mask>*Widget*</mask>
     <mask>*.jsx</mask>
+    <mask>*.coffee</mask>
     <mask>*.js</mask>
   </component>
 </application>
