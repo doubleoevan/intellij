@@ -7,9 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="test*.coffee" />
-    <mask>*Test*</mask>
-    <mask>Local*.js</mask>
+    <option name="FILE_MASK" value="test_*.coffee" />
     <mask>Rest*.js</mask>
     <mask>*Style.js</mask>
     <mask>abel.js</mask>
@@ -36,7 +34,9 @@
     <mask>*.jsx</mask>
     <mask>*test*.coffee</mask>
     <mask>*test.js</mask>
-    <mask>*.coffee</mask>
     <mask>test*.coffee</mask>
+    <mask>**/test*.coffee</mask>
+    <mask>*.coffee</mask>
+    <mask>test_*.coffee</mask>
   </component>
 </application>
